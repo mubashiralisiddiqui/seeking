@@ -1,2 +1,2 @@
 # seeking
-i am learning git essentials
+i am learning git essentials at hub
